@@ -59,8 +59,8 @@ p, ul{
     margin-bottom: 1em;
     list-style: none;
 }
-.edu-ul{
-    margin: 1em 0;
+.edu{
+    margin: 1em;
 }
 img{
     max-width: 100%;
@@ -111,6 +111,9 @@ img{
     line-height: 25px;
 }
 
+.work{
+    margin: 1em;
+}
 @media only screen and (max-width: 590px) {
     
     .col-1 {
